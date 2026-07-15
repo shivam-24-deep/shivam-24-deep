@@ -297,13 +297,13 @@ license:        open-to-collaborate
 
 <br/>
 
-<img height="195" width="410" src="https://github-readme-stats.vercel.app/api?username=shivam-24-deep&show_icons=true&theme=dracula&hide_border=true&bg_color=0F172A&title_color=10B981&icon_color=06B6D4&text_color=C9D1D9&ring_color=10B981" alt="GitHub Stats" />
+<img height="195" width="410" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shivam-24-deep&show_icons=true&theme=dracula&hide_border=true&bg_color=0F172A&title_color=10B981&icon_color=06B6D4&text_color=C9D1D9&ring_color=10B981" alt="GitHub Stats" />
 &nbsp;&nbsp;
 <img height="195" width="410" src="https://streak-stats.demolab.com/?user=shivam-24-deep&theme=dark&hide_border=true&background=0F172A&ring=10B981&fire=06B6D4&currStreakLabel=10B981&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img height="195" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-24-deep&layout=compact&theme=dracula&hide_border=true&bg_color=0F172A&title_color=10B981&text_color=C9D1D9" alt="Top Languages" />
+<img height="195" width="350" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shivam-24-deep&layout=compact&theme=dracula&hide_border=true&bg_color=0F172A&title_color=10B981&text_color=C9D1D9" alt="Top Languages" />
 
 <br/><br/>
 
