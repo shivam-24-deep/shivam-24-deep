@@ -7,7 +7,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,50:10b981,100:06b6d4&height=220&section=header&text=SHIVAM%20DEEP&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20All-Rounder&descSize=16&descAlignY=54&descColor=d1fae5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:06b6d4&height=220&section=header&text=SHIVAM%20DEEP&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20All-Rounder&descSize=16&descAlignY=55&descColor=d1fae5" />
 </p>
 
 <p align="center">
@@ -73,30 +73,41 @@ license:        open-to-collaborate
 └─────────────────────────────────────────────────────────────┘
 ```
 
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
-
-<br/><br/>
-
-**Machine Learning & Data Science**
-<br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-
-<br/><br/>
-
-**Full-Stack & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,supabase,git,github,vscode,linux,typescript&theme=dark" />
-
-</div>
+<table align="center" width="90%">
+  <tr>
+    <td align="right" width="25%"><b>Languages</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Machine Learning & Data Science</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Full-Stack & Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 <!-- ─────────────────────── PROJECTS ─────────────────────── -->
 
@@ -229,6 +240,41 @@ license:        open-to-collaborate
 
 <br/>
 
+<!-- ─────────────────────── ACHIEVEMENTS ─────────────────────── -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:10b981,100:06b6d4&height=40&text=BENCHMARK%20HIGHLIGHTS&fontSize=15&fontColor=d1fae5&fontAlignY=65" width="100%">
+</div>
+
+<div align="center">
+
+## 🏅 Benchmark Highlights
+
+</div>
+
+<table align="center">
+<tr>
+<td>🧪</td><td><b>7 End-to-End Projects Shipped</b> — spanning Computer Vision, NLP, Recommender Systems, Speech AI & Fintech</td>
+</tr>
+<tr>
+<td>🎯</td><td><b>79% Accuracy</b> on CIFAR-10 image classification with a custom CNN (TensorFlow/Keras)</td>
+</tr>
+<tr>
+<td>🌐</td><td><b>2 Live Deployed Products</b> — U-NAT (AI Workspace) & personal portfolio site</td>
+</tr>
+<tr>
+<td>🤝</td><td><b>Team Contributor</b> on Settlio — a production-grade fintech app built with a 3-person team</td>
+</tr>
+</table>
+
+<!-- Add real certifications / hackathon results here once you have them, e.g.:
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Certification_Name-COLORCODE?style=for-the-badge&logo=platform&logoColor=white" />
+</p>
+-->
+
+<br/>
+
 <!-- ─────────────────────── GITHUB STATS ─────────────────────── -->
 
 <div align="center">
@@ -289,7 +335,7 @@ license:        open-to-collaborate
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,50:10b981,100:06b6d4&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:06b6d4&height=120&section=footer" />
 </p>
 
 <h3 align="center">
