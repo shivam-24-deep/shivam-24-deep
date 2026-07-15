@@ -33,6 +33,8 @@
 
 <br/>
 
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 <div align="center">
 
 ## 🗂️ Model Card
@@ -52,6 +54,8 @@ license:        open-to-collaborate
 > **Model description:** A full-stack developer who specializes in applied machine learning —
 > equally comfortable training a CNN, shipping a Next.js app, or wiring a Flutter frontend to a
 > FastAPI backend. Built for end-to-end ownership: data → model → product.
+
+<br clear="both"/>
 
 <!-- ─────────────────────── ARCHITECTURE / STACK ─────────────────────── -->
 
