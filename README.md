@@ -7,7 +7,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:06b6d4&height=220&section=header&text=SHIVAM%20DEEP&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20All-Rounder&descSize=16&descAlignY=55&descColor=d1fae5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:06b6d4&height=220&section=header&text=SHIVAM%20DEEP&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=16&descAlignY=55&descColor=d1fae5" />
 </p>
 
 <p align="center">
@@ -60,6 +60,8 @@ license:        open-to-collaborate
 <div align="center">
 
 ### 🏗️ Architecture Layers
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&repeat=true&width=460&height=30&lines=Built+layer+by+layer%2C+one+commit+at+a+time." alt="Typing SVG" />
 
 </div>
 
@@ -116,6 +118,8 @@ license:        open-to-collaborate
 <div align="center">
 
 ## 🧪 Shipped Systems & Experiments
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=10B981&center=true&vCenter=true&repeat=true&width=460&height=30&lines=From+notebooks+to+production." alt="Typing SVG" />
 
 </div>
 
@@ -285,6 +289,10 @@ license:        open-to-collaborate
 
 ## 📈 Training Metrics
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&repeat=true&width=460&height=30&lines=Numbers+don't+lie+(mostly)." alt="Typing SVG" />
+
+<br/>
+
 <img height="195" width="410" src="https://github-readme-stats.vercel.app/api?username=shivam-24-deep&show_icons=true&theme=dracula&hide_border=true&bg_color=0F172A&title_color=10B981&icon_color=06B6D4&text_color=C9D1D9&ring_color=10B981" alt="GitHub Stats" />
 &nbsp;&nbsp;
 <img height="195" width="410" src="https://streak-stats.demolab.com/?user=shivam-24-deep&theme=dark&hide_border=true&background=0F172A&ring=10B981&fire=06B6D4&currStreakLabel=10B981&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
@@ -308,6 +316,8 @@ license:        open-to-collaborate
 <div align="center">
 
 ## 🎯 Current Training Objectives
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=10B981&center=true&vCenter=true&repeat=true&width=460&height=30&lines=Always+training%2C+never+overfitting." alt="Typing SVG" />
 
 </div>
 
