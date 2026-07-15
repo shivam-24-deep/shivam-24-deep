@@ -311,6 +311,14 @@ license:        open-to-collaborate
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-24-deep&theme=react-dark&hide_border=true&bg_color=0F172A&color=10B981&line=06B6D4&point=FFFFFF&area=true&area_color=10B981" alt="Contribution Graph" />
 </a>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam-24-deep/shivam-24-deep/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam-24-deep/shivam-24-deep/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/shivam-24-deep/shivam-24-deep/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 </div>
 
 <!-- ─────────────────────── GOALS ─────────────────────── -->
