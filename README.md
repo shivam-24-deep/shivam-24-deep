@@ -52,7 +52,7 @@ shivam@dev ~ % whoami
 
 <!-- ─────────────────────── TECH STACK ─────────────────────── -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:10b981,100:06b6d4&height=40&text=NEURAL%20NETWORKS%20%7C%20MACHINE%20LEARNING%20%7C%20DEEP%20LEARNING&fontSize=15&fontColor=d1fae5&fontAlignY=65" width="100%">
 
 <div align="center">
   <h2>🧰 Tech Stack</h2>
@@ -91,7 +91,7 @@ shivam@dev ~ % whoami
 
 <!-- ─────────────────────── PROJECTS ─────────────────────── -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:10b981,100:06b6d4&height=40&text=APPLIED%20AI%20%2F%20ML%20PROJECTS&fontSize=15&fontColor=d1fae5&fontAlignY=65" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -217,7 +217,7 @@ shivam@dev ~ % whoami
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:10b981,100:06b6d4&height=40&text=GITHUB%20ACTIVITY%20%26%20CONTRIBUTIONS&fontSize=15&fontColor=d1fae5&fontAlignY=65" width="100%">
 </div>
 
 <!-- ─────────────────────── GITHUB STATS ─────────────────────── -->
@@ -242,7 +242,7 @@ shivam@dev ~ % whoami
 
 <!-- ─────────────────────── GOALS ─────────────────────── -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:10b981,100:06b6d4&height=40&text=CURRENT%20FOCUS%20%26%20GOALS&fontSize=15&fontColor=d1fae5&fontAlignY=65" width="100%">
 
 ## 🎯 What I'm Up To
 
