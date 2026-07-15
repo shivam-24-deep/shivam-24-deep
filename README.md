@@ -7,7 +7,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:06b6d4&height=220&section=header&text=SHIVAM%20DEEP&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=16&descAlignY=55&descColor=d1fae5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:06b6d4&height=220&section=header&text=SHIVAM%20DEEP&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%C2%B7%20Deep%20Learning%20Practitioner&descSize=16&descAlignY=55&descColor=d1fae5" />
 </p>
 
 <p align="center">
