@@ -1,17 +1,17 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🧠 SHIVAM DEEP — GitHub Profile README                              -->
+<!-- 🧠 SHIVAM DEEP — GitHub Profile README (Model Card Edition)         -->
 <!-- Personalize before publishing:                                     -->
 <!--   - LinkedIn URL (badge is commented out below, add yours in)      -->
-<!--   - Any degree / college / employer you want to state              -->
+<!--   - Any degree / college you want to state                        -->
 <!--   - Swap out project stats if you have more accurate numbers       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,50:10b981,100:06b6d4&height=220&section=header&text=SHIVAM%20DEEP&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20AI%20Systems&descSize=17&descAlignY=58&descColor=d1fae5" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,50:10b981,100:06b6d4&height=220&section=header&text=SHIVAM%20DEEP&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20All-Rounder&descSize=16&descAlignY=54&descColor=d1fae5" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=160&lines=%F0%9F%91%8B+Hi%2C+I'm+Shivam+Deep;%F0%9F%A4%96+Building+Machine+Learning+Models;%F0%9F%93%8A+Turning+Data+into+Decisions;%F0%9F%92%AC+NLP+%7C+Computer+Vision+%7C+Recommenders" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=160&lines=%F0%9F%91%8B+Hi%2C+I'm+Shivam+Deep;%F0%9F%A7%A0+AI%2FML+Engineer+%7C+Full-Stack+Builder;%E2%9A%99%EF%B8%8F+Models+%2B+Products+%2B+Everything+Between;%F0%9F%93%A6+Trained+on+Python%2C+TensorFlow+%26+Curiosity" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,34 +29,49 @@
   <img src="https://img.shields.io/github/followers/shivam-24-deep?label=Followers&style=flat-square&color=10B981" alt="Followers" />
 </p>
 
-<!-- ─────────────────────── ABOUT ME ─────────────────────── -->
+<!-- ─────────────────────── MODEL CARD ─────────────────────── -->
 
 <br/>
 
-<img align="right" alt="AI" width="360" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<div align="center">
 
-## 🧬 About Me
+## 🗂️ Model Card
 
-```bash
-shivam@dev ~ % whoami
+</div>
 
-  Name        : Shivam Deep
-  Focus       : Machine Learning · Data Science · Applied AI
-  Toolkit     : Python · TensorFlow · Scikit-learn · Pandas · C++
-  Interests   : Computer Vision, NLP, Recommender Systems, Speech AI
-  Currently   : Building end-to-end ML projects & sharpening DS fundamentals
-  Fun fact    : My models train faster than I finish my coffee ☕
+```yaml
+model_name:     shivam-deep
+model_type:     Full-Stack AI/ML Engineer
+version:        v2026.1
+architecture:   Human · Backpropagation-Optimized · Coffee-Fueled
+domains:        Computer Vision · NLP · Recommender Systems · Speech AI · Full-Stack Dev
+status:         actively-training
+license:        open-to-collaborate
 ```
 
-<br clear="both"/>
+> **Model description:** A full-stack developer who specializes in applied machine learning —
+> equally comfortable training a CNN, shipping a Next.js app, or wiring a Flutter frontend to a
+> FastAPI backend. Built for end-to-end ownership: data → model → product.
 
-<!-- ─────────────────────── TECH STACK ─────────────────────── -->
+<!-- ─────────────────────── ARCHITECTURE / STACK ─────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:10b981,100:06b6d4&height=40&text=NEURAL%20NETWORKS%20%7C%20MACHINE%20LEARNING%20%7C%20DEEP%20LEARNING&fontSize=15&fontColor=d1fae5&fontAlignY=65" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:10b981,100:06b6d4&height=40&text=MODEL%20ARCHITECTURE%20%2F%20TECH%20STACK&fontSize=15&fontColor=d1fae5&fontAlignY=65" width="100%">
 
 <div align="center">
-  <h2>🧰 Tech Stack</h2>
+
+### 🏗️ Architecture Layers
+
 </div>
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│  INPUT LAYER      →  Python · C++ · TypeScript · JavaScript  │
+│  HIDDEN LAYER 1   →  TensorFlow · Keras · Scikit-learn       │
+│  HIDDEN LAYER 2   →  Pandas · NumPy · Jupyter                │
+│  HIDDEN LAYER 3   →  Flutter · FastAPI · Next.js · Supabase  │
+│  OUTPUT LAYER     →  Deployed products (Vercel · Netlify)    │
+└─────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
@@ -77,23 +92,21 @@ shivam@dev ~ % whoami
 
 <br/><br/>
 
-**Tools & Platforms**
+**Full-Stack & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,typescript&theme=dark" />
-
-<br/><br/>
-
-**Also Worked With**
-<br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,fastapi,nextjs,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,supabase,git,github,vscode,linux,typescript&theme=dark" />
 
 </div>
 
 <!-- ─────────────────────── PROJECTS ─────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:10b981,100:06b6d4&height=40&text=APPLIED%20AI%20%2F%20ML%20PROJECTS&fontSize=15&fontColor=d1fae5&fontAlignY=65" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:10b981,100:06b6d4&height=40&text=SHIPPED%20SYSTEMS%20%26%20EXPERIMENTS&fontSize=15&fontColor=d1fae5&fontAlignY=65" width="100%">
 
-## 🚀 Featured Projects
+<div align="center">
+
+## 🧪 Shipped Systems & Experiments
+
+</div>
 
 <table>
 <tr>
@@ -103,10 +116,10 @@ shivam@dev ~ % whoami
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Complete-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dataset-CIFAR--10-06B6D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Accuracy-79%25-06B6D4?style=flat-square" />
 </p>
 
-> Complete convolutional neural network built with TensorFlow/Keras, achieving **79% accuracy** on CIFAR-10 image classification.
+> Convolutional neural network built with TensorFlow/Keras, trained on CIFAR-10 for image classification.
 
 `Python` `TensorFlow` `Keras` `CNN`
 
@@ -216,42 +229,59 @@ shivam@dev ~ % whoami
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:10b981,100:06b6d4&height=40&text=GITHUB%20ACTIVITY%20%26%20CONTRIBUTIONS&fontSize=15&fontColor=d1fae5&fontAlignY=65" width="100%">
-</div>
-
 <!-- ─────────────────────── GITHUB STATS ─────────────────────── -->
 
-## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:10b981,100:06b6d4&height=40&text=TRAINING%20METRICS%20%2F%20GITHUB%20ACTIVITY&fontSize=15&fontColor=d1fae5&fontAlignY=65" width="100%">
+</div>
 
 <div align="center">
-  <img height="195" width="410" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shivam-24-deep&show_icons=true&theme=dracula&hide_border=true&bg_color=0F172A&title_color=10B981&icon_color=06B6D4&text_color=C9D1D9&ring_color=10B981" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="195" width="410" src="https://streak-stats.demolab.com/?user=shivam-24-deep&theme=dark&hide_border=true&background=0F172A&ring=10B981&fire=06B6D4&currStreakLabel=10B981&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
 
-  <br/><br/>
+## 📈 Training Metrics
 
-  <img height="195" width="350" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shivam-24-deep&layout=compact&theme=dracula&hide_border=true&bg_color=0F172A&title_color=10B981&text_color=C9D1D9" alt="Top Languages" />
+<img height="195" width="410" src="https://github-readme-stats.vercel.app/api?username=shivam-24-deep&show_icons=true&theme=dracula&hide_border=true&bg_color=0F172A&title_color=10B981&icon_color=06B6D4&text_color=C9D1D9&ring_color=10B981" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img height="195" width="410" src="https://streak-stats.demolab.com/?user=shivam-24-deep&theme=dark&hide_border=true&background=0F172A&ring=10B981&fire=06B6D4&currStreakLabel=10B981&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
 
-  <br/><br/>
+<br/><br/>
 
-  <a href="https://github.com/shivam-24-deep">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-24-deep&theme=react-dark&hide_border=true&bg_color=0F172A&color=10B981&line=06B6D4&point=FFFFFF&area=true&area_color=10B981" alt="Contribution Graph" />
-  </a>
+<img height="195" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-24-deep&layout=compact&theme=dracula&hide_border=true&bg_color=0F172A&title_color=10B981&text_color=C9D1D9" alt="Top Languages" />
+
+<br/><br/>
+
+<a href="https://github.com/shivam-24-deep">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-24-deep&theme=react-dark&hide_border=true&bg_color=0F172A&color=10B981&line=06B6D4&point=FFFFFF&area=true&area_color=10B981" alt="Contribution Graph" />
+</a>
+
 </div>
 
 <!-- ─────────────────────── GOALS ─────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:10b981,100:06b6d4&height=40&text=CURRENT%20FOCUS%20%26%20GOALS&fontSize=15&fontColor=d1fae5&fontAlignY=65" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:10b981,100:06b6d4&height=40&text=CURRENT%20TRAINING%20OBJECTIVES&fontSize=15&fontColor=d1fae5&fontAlignY=65" width="100%">
 
-## 🎯 What I'm Up To
+<div align="center">
+
+## 🎯 Current Training Objectives
+
+</div>
 
 ```text
-🔭 Currently Building    →  End-to-end ML projects spanning CV, NLP & recommenders
-🌱 Currently Learning    →  Deep learning architectures & model deployment (MLOps)
-🤝 Open to Collaborate   →  Machine Learning, Data Science & AI-driven products
-📫 Reach Me              →  shivammogha73@gmail.com
-⚡ Fun Fact              →  I'd rather tune a model than my alarm clock 😄
+🔭 Fine-tuning on     →  End-to-end ML projects spanning CV, NLP & recommenders
+🌱 Next checkpoint    →  Deep learning architectures & model deployment (MLOps)
+🤝 Open to fine-tune  →  Machine Learning, Data Science & AI-driven products
+📫 Inference endpoint →  shivammogha73@gmail.com
+```
+
+<div align="center">
+
+### ⚠️ Known Limitations
+
+</div>
+
+```text
+- May refactor working code "just to make it cleaner" at 1 AM
+- Occasionally overfits to a good tech stack and reuses it everywhere
+- Requires periodic fine-tuning via coffee ☕ for optimal performance
 ```
 
 <!-- ─────────────────────── FOOTER ─────────────────────── -->
@@ -263,5 +293,5 @@ shivam@dev ~ % whoami
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%E2%AD%90;Let's+build+something+intelligent+together!;Star+my+repos+if+you+find+them+useful!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=560&lines=Thanks+for+visiting!+%E2%AD%90;Let's+build+something+intelligent+together!;Star+my+repos+if+you+find+them+useful!" />
 </h3>
