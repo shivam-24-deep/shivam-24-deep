@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=160&lines=%F0%9F%91%8B+Hi%2C+I'm+Shivam+Deep;%F0%9F%A7%A0+AI%2FML+Engineer+%7C+Full-Stack+Builder;%E2%9A%99%EF%B8%8F+Models+%2B+Products+%2B+Everything+Between;%F0%9F%93%A6+Trained+on+Python%2C+TensorFlow+%26+Curiosity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=160&lines=%F0%9F%91%8B+Hi%2C+I'm+Shivam+Deep;%F0%9F%A7%A0+AI%2FML+Engineer+%7C+Deep+Learning+Practitioner;%E2%9A%99%EF%B8%8F+Neural+Networks+%2B+Applied+AI;%F0%9F%93%A6+Trained+on+Python%2C+TensorFlow+%26+Curiosity" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -43,17 +43,17 @@
 
 ```yaml
 model_name:     shivam-deep
-model_type:     Full-Stack AI/ML Engineer
+model_type:     AI/ML Engineer
 version:        v2026.1
 architecture:   Human · Backpropagation-Optimized · Coffee-Fueled
-domains:        Computer Vision · NLP · Recommender Systems · Speech AI · Full-Stack Dev
+domains:        Computer Vision · NLP · Recommender Systems · Speech AI · Deep Learning
 status:         actively-training
 license:        open-to-collaborate
 ```
 
-> **Model description:** A full-stack developer who specializes in applied machine learning —
-> equally comfortable training a CNN, shipping a Next.js app, or wiring a Flutter frontend to a
-> FastAPI backend. Built for end-to-end ownership: data → model → product.
+> **Model description:** An AI/ML engineer who trains models and ships them — comfortable
+> building a CNN from scratch, fine-tuning an NLP pipeline, or wiring the full product
+> around it end to end. Built for outcomes: data → model → product.
 
 <br clear="both"/>
 
